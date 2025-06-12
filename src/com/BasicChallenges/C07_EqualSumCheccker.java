@@ -1,4 +1,4 @@
-package BasicChallenges;
+package com.BasicChallenges;
 
 /*--------------------------------------------------------------------------------------------------
 Creating An Equal Sum Checker For Strengthening Arithmetic And Comparison Operations

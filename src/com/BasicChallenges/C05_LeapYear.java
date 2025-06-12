@@ -1,4 +1,4 @@
-package BasicChallenges;
+package com.BasicChallenges;
 
 /*--------------------------------------------------------------------------------------------------
 Implementing A Precise Leap Year Calculator To Enhance Conditional Reasoning

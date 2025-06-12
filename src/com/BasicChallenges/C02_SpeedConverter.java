@@ -1,4 +1,4 @@
-package BasicChallenges;
+package com.BasicChallenges;
 
 /*--------------------------------------------------------------------------------------------------
 Implementing A Speed Converter To Practice Basic Java Arithmetic And Output

@@ -1,4 +1,4 @@
-package BasicChallenges;
+package com.BasicChallenges;
 
 /*--------------------------------------------------------------------------------------------------
 Comprehensive 'Positive, Negative, Or Zero' Assessment In Java

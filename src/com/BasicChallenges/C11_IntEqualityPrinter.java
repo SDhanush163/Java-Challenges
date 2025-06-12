@@ -1,4 +1,4 @@
-package BasicChallenges;
+package com.BasicChallenges;
 
 /*--------------------------------------------------------------------------------------------------
 Crafting An Equality Printer To Explore Multiple Conditional Checks In Java

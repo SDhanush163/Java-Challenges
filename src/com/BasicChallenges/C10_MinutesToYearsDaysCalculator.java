@@ -1,4 +1,4 @@
-package BasicChallenges;
+package com.BasicChallenges;
 
 /*--------------------------------------------------------------------------------------------------
 Implementing A Minutes-To-Years-And-Days Calculator For Advanced Time Conversions

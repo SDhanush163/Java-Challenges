@@ -1,4 +1,4 @@
-package BasicChallenges;
+package com.BasicChallenges;
 
 /*--------------------------------------------------------------------------------------------------
 Building A Decimal Comparator To Practice Floating-Point Comparisons In Java

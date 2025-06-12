@@ -1,4 +1,4 @@
-package BasicChallenges;
+package com.BasicChallenges;
 
 /*--------------------------------------------------------------------------------------------------
 Designing A 'Playing Cat' Logic Program To Refine Conditional Implementation

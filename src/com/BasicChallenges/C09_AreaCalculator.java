@@ -1,4 +1,4 @@
-package BasicChallenges;
+package com.BasicChallenges;
 
 /*--------------------------------------------------------------------------------------------------
 Constructing A Comprehensive Area Calculator For Circles And Rectangles In Java
