@@ -1,4 +1,4 @@
-package com.DataStructures.C44_MobilePhoneContacts;
+package com.DataStructures.C45_MobilePhoneContacts;
 
 public class Contact {
     private String name;

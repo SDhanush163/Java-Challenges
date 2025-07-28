@@ -29,7 +29,7 @@ NOTE: Classes that are not in the java.lang package should be manually imported.
 
 import java.util.Scanner;
 
-public class C42_MinFinder {
+public class C43_MinFinder {
     public static void main(String[] args) {
         int len = readInteger();
         int[] values = readElements(len);

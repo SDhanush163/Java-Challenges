@@ -18,7 +18,7 @@ NOTE: Classes that are not in the java.lang package should be manually imported.
 
 import java.util.Arrays;
 
-public class C43_ReverseArray {
+public class C44_ReverseArray {
     public static void main(String[] args) {
         int[] elements = {1, 2, 3, 4, 5, 6};
         reverse(elements);

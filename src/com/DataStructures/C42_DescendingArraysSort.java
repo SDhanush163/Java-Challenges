@@ -37,7 +37,7 @@ NOTE: Classes that are not in the java.lang package should be manually imported.
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class C41_DescendingArraysSort {
+public class C42_DescendingArraysSort {
     public static void main(String[] args) {
         int[] inputArray = getIntegers(3);
         int[] sortedArray = sortIntegers(inputArray);

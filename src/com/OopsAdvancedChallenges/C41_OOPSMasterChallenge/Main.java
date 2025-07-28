@@ -1,4 +1,4 @@
-package com.OopsAdvancedChallenges.OOPSMasterChallenge;
+package com.OopsAdvancedChallenges.C41_OOPSMasterChallenge;
 
 /*--------------------------------------------------------------------------------------------------
 Bill's Burger Challenge

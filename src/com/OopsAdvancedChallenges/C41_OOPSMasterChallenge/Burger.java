@@ -1,4 +1,4 @@
-package com.OopsAdvancedChallenges.OOPSMasterChallenge;
+package com.OopsAdvancedChallenges.C41_OOPSMasterChallenge;
 
 public class Burger extends Item {
     private Item extra1;
