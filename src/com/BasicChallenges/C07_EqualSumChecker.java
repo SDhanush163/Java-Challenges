@@ -16,7 +16,7 @@ NOTE: The hasEqualSum method needs to be defined as public static ​like
 we have been doing so far in the course.
 --------------------------------------------------------------------------------------------------*/
 
-public class C07_EqualSumCheccker {
+public class C07_EqualSumChecker {
     public static void main(String[] args) {
         System.out.println(hasEqualSum(1, 1, 1));
         System.out.println(hasEqualSum(1, 1, 2));
